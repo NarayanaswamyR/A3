@@ -1,0 +1,10 @@
+D:\Argusnach\Test\Windows\oE\oE.Common.Base\bin\Debug\oE.Common.Base.dll
+D:\Argusnach\Test\Windows\oE\oE.Common.Base\bin\Debug\oE.Common.Base.pdb
+D:\Argusnach\Test\Windows\oE\oE.Common.Base\obj\Debug\oE.Common.Base.dll
+D:\Argusnach\Test\Windows\oE\oE.Common.Base\obj\Debug\oE.Common.Base.pdb
+D:\Argusnach\Test\Windows\oE\oE.Common.Base\obj\Debug\oE.Common.Base.csprojResolveAssemblyReference.cache
+D:\ranganathanns\Shared\New Folder\oE\oE.Common.Base\bin\Debug\oE.Common.Base.dll
+D:\ranganathanns\Shared\New Folder\oE\oE.Common.Base\bin\Debug\oE.Common.Base.pdb
+D:\ranganathanns\Shared\New Folder\oE\oE.Common.Base\obj\Debug\oE.Common.Base.dll
+D:\ranganathanns\Shared\New Folder\oE\oE.Common.Base\obj\Debug\oE.Common.Base.pdb
+D:\ranganathanns\Shared\New Folder\oE\oE.Common.Base\obj\Debug\oE.Common.Base.csprojResolveAssemblyReference.cache

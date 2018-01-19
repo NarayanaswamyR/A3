@@ -1,0 +1,18 @@
+D:\Argusnach\Test\Windows\oE\oELib\obj\Debug\oELib.csprojResolveAssemblyReference.cache
+D:\Argusnach\Test\Windows\oE\oELib\bin\Debug\oELib.dll
+D:\Argusnach\Test\Windows\oE\oELib\bin\Debug\oELib.pdb
+D:\Argusnach\Test\Windows\oE\oELib\bin\Debug\oEEntity.dll
+D:\Argusnach\Test\Windows\oE\oELib\bin\Debug\oEEntity.pdb
+D:\Argusnach\Test\Windows\oE\oELib\obj\Debug\oELib.dll
+D:\Argusnach\Test\Windows\oE\oELib\obj\Debug\oELib.pdb
+D:\Argusnach\Test\Windows\oE\oELib\bin\Debug\oE.Common.Base.dll
+D:\Argusnach\Test\Windows\oE\oELib\bin\Debug\oE.Common.Base.pdb
+D:\ranganathanns\Shared\New Folder\oE\oELib\bin\Debug\oELib.dll
+D:\ranganathanns\Shared\New Folder\oE\oELib\bin\Debug\oELib.pdb
+D:\ranganathanns\Shared\New Folder\oE\oELib\bin\Debug\oEEntity.dll
+D:\ranganathanns\Shared\New Folder\oE\oELib\bin\Debug\oE.Common.Base.dll
+D:\ranganathanns\Shared\New Folder\oE\oELib\bin\Debug\oEEntity.pdb
+D:\ranganathanns\Shared\New Folder\oE\oELib\bin\Debug\oE.Common.Base.pdb
+D:\ranganathanns\Shared\New Folder\oE\oELib\obj\Debug\oELib.csprojResolveAssemblyReference.cache
+D:\ranganathanns\Shared\New Folder\oE\oELib\obj\Debug\oELib.dll
+D:\ranganathanns\Shared\New Folder\oE\oELib\obj\Debug\oELib.pdb

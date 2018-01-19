@@ -1,0 +1,21 @@
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oE.exe.config
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oE.exe
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oE.pdb
+D:\Argusnach\Test\Windows\oE\oE\obj\Debug\oE.csprojResolveAssemblyReference.cache
+D:\Argusnach\Test\Windows\oE\oE\obj\Debug\oE.Properties.Resources.resources
+D:\Argusnach\Test\Windows\oE\oE\obj\Debug\oE.csproj.GenerateResource.Cache
+D:\Argusnach\Test\Windows\oE\oE\obj\Debug\oE.exe
+D:\Argusnach\Test\Windows\oE\oE\obj\Debug\oE.pdb
+D:\Argusnach\Test\Windows\oE\oE\obj\Debug\oE.Form1.resources
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oEEntity.dll
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oEEntity.pdb
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oE.Common.Base.dll
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oELib.dll
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oE.Common.Base.pdb
+D:\Argusnach\Test\Windows\oE\oE\bin\Debug\oELib.pdb
+D:\ranganathanns\Shared\New Folder\oE\oE\bin\Debug\oE.exe.config
+D:\ranganathanns\Shared\New Folder\oE\oE\obj\Debug\oE.exe
+D:\ranganathanns\Shared\New Folder\oE\oE\obj\Debug\oE.csprojResolveAssemblyReference.cache
+D:\ranganathanns\Shared\New Folder\oE\oE\obj\Debug\oE.Form1.resources
+D:\ranganathanns\Shared\New Folder\oE\oE\obj\Debug\oE.Properties.Resources.resources
+D:\ranganathanns\Shared\New Folder\oE\oE\obj\Debug\oE.csproj.GenerateResource.Cache

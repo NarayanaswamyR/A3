@@ -1,0 +1,14 @@
+D:\Argusnach\Test\Windows\oE\oEEntity\bin\Debug\oEEntity.dll
+D:\Argusnach\Test\Windows\oE\oEEntity\bin\Debug\oEEntity.pdb
+D:\Argusnach\Test\Windows\oE\oEEntity\obj\Debug\oEEntity.dll
+D:\Argusnach\Test\Windows\oE\oEEntity\obj\Debug\oEEntity.pdb
+D:\Argusnach\Test\Windows\oE\oEEntity\obj\Debug\oEEntity.csprojResolveAssemblyReference.cache
+D:\Argusnach\Test\Windows\oE\oEEntity\bin\Debug\oE.Common.Base.dll
+D:\Argusnach\Test\Windows\oE\oEEntity\bin\Debug\oE.Common.Base.pdb
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\bin\Debug\oEEntity.dll
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\bin\Debug\oEEntity.pdb
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\bin\Debug\oE.Common.Base.dll
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\bin\Debug\oE.Common.Base.pdb
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\obj\Debug\oEEntity.csprojResolveAssemblyReference.cache
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\obj\Debug\oEEntity.dll
+D:\ranganathanns\Shared\New Folder\oE\oEEntity\obj\Debug\oEEntity.pdb
