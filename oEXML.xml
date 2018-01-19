@@ -1,0 +1,419 @@
+<?xml version="1.0" standalone="yes"?>
+<oExEntity xmlns="http://tempuri.org/oExEntity.xsd">
+  <Questions>
+    <ID>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</ID>
+    <Question>Which of the following constitutes the .NET Framework?</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>5de7a7c1-1743-41d8-8402-91549fe52a13</ID>
+    <Question>What is the difference between Convert.ToString(str) and str.ToString() method?</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>cc5850b0-4a1b-4d48-9087-4aed84f63c30</ID>
+    <Question>Which keyword is used to achieve shadowing in C#?</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>0588ee37-46b8-44ad-b515-5c60373fb390</ID>
+    <Question>Which of the following is the correct order of occurrence in a typical SQL statement?</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>31c33409-d285-4b67-a6e4-d2420959ff26</ID>
+    <Question>Which of the following is the correct outcome of the SQL query below?
+
+Query: SELECT cid FROM ENROLLED WHERE grade = 'C'</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>2130c721-1dd4-4978-af6c-9f926adb856e</ID>
+    <Question>Which of the following datatype can be used with enum?</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>cb8a9ab0-7b2d-438e-b06a-e8872a83e971</ID>
+    <Question>What is indexer?</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <Questions>
+    <ID>225b58a1-8bd3-4fd4-b7fd-46d6f818c73b</ID>
+    <Question>An array in C# starts with _____ index.</Question>
+    <ComplexLevel>1</ComplexLevel>
+    <Point>1</Point>
+    <Fk_QuestionMode>9b30806b-70d5-49b7-acd8-b9e77da3547d</Fk_QuestionMode>
+  </Questions>
+  <TopicType>
+    <ID>558f9d1f-494e-43eb-9809-67c35e7d6f74</ID>
+    <Code>C#-BASIC</Code>
+    <Fk_GroupType>30c9159b-344a-4998-8d11-c8560d6ee39e</Fk_GroupType>
+    <Description>Basic Questions</Description>
+  </TopicType>
+  <TopicType>
+    <ID>f8ce12ab-945e-433c-951f-37f50dd131e7</ID>
+    <Code>C#-ADVANCE</Code>
+    <Fk_GroupType>30c9159b-344a-4998-8d11-c8560d6ee39e</Fk_GroupType>
+    <Description>Advance Questions</Description>
+  </TopicType>
+  <TopicType>
+    <ID>fb0052fa-915f-4e3a-a3ad-2a2678e18936</ID>
+    <Code>SQL-BASIC</Code>
+    <Fk_GroupType>47bc32b7-c243-40e7-9b72-03aadc278109</Fk_GroupType>
+    <Description>Basic Questions</Description>
+  </TopicType>
+  <TopicType>
+    <ID>41d96d26-ac7b-4aab-b745-913e056a4788</ID>
+    <Code>SQL-ADVANCE</Code>
+    <Fk_GroupType>47bc32b7-c243-40e7-9b72-03aadc278109</Fk_GroupType>
+    <Description>Advance Questions</Description>
+  </TopicType>
+  <Answers>
+    <ID>38208e62-d844-4a5a-a6e3-a32d2712a34e</ID>
+    <Fk_Question>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</Fk_Question>
+    <Answer>ASP.NET Applications</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>350a5e3f-e99c-4e04-b05d-6c79e843da25</ID>
+    <Fk_Question>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</Fk_Question>
+    <Answer>CLR</Answer>
+    <AnswerOrder>2</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>8ec60ad7-fafe-49b8-8afd-fc5717f8fcb8</ID>
+    <Fk_Question>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</Fk_Question>
+    <Answer>Framework Class Library</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>e98977dd-7e3a-45d1-ae7a-6951ad949c32</ID>
+    <Fk_Question>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</Fk_Question>
+    <Answer>WinForm Applications</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>bfc7c2d3-b3bf-46c3-ba3b-bfa090301066</ID>
+    <Fk_Question>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</Fk_Question>
+    <Answer>Windows Services</Answer>
+    <AnswerOrder>5</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>6c70efb8-151c-408e-a516-d8de99478719</ID>
+    <Fk_Question>5de7a7c1-1743-41d8-8402-91549fe52a13</Fk_Question>
+    <Answer>Convert.ToString(str) function handles NULL while str.ToString() does not. It will throw a NULL reference exception.</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>ff6b2709-4940-4cdb-a55f-2a1131ffd78e</ID>
+    <Fk_Question>5de7a7c1-1743-41d8-8402-91549fe52a13</Fk_Question>
+    <Answer>str.ToString() function handles NULL while Convert.ToString(str) does not. It will throw a NULL reference exception.</Answer>
+    <AnswerOrder>2</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>e4aac4c8-d4cc-471e-bd4d-6961b02703d6</ID>
+    <Fk_Question>5de7a7c1-1743-41d8-8402-91549fe52a13</Fk_Question>
+    <Answer>Both can handle NULL</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>200a3795-ae9c-44e6-accc-7b8faa57e829</ID>
+    <Fk_Question>5de7a7c1-1743-41d8-8402-91549fe52a13</Fk_Question>
+    <Answer>None can Handle NULL</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>00f2a50e-514d-4157-a98a-beddbcaeb349</ID>
+    <Fk_Question>cc5850b0-4a1b-4d48-9087-4aed84f63c30</Fk_Question>
+    <Answer>Abstract</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>c13eeb46-cf8e-4d38-83f8-a3a6c4d9e650</ID>
+    <Fk_Question>cc5850b0-4a1b-4d48-9087-4aed84f63c30</Fk_Question>
+    <Answer>New</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>fa120107-ff6f-477a-b0f0-039c0e328706</ID>
+    <Fk_Question>cc5850b0-4a1b-4d48-9087-4aed84f63c30</Fk_Question>
+    <Answer>Shadow</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>90aba0c8-f45c-40ff-bf1c-e3bec51fd757</ID>
+    <Fk_Question>cc5850b0-4a1b-4d48-9087-4aed84f63c30</Fk_Question>
+    <Answer>Static</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>a8b695aa-e154-4099-b504-e5b95a1d3f41</ID>
+    <Fk_Question>0588ee37-46b8-44ad-b515-5c60373fb390</Fk_Question>
+    <Answer>select, group by, where, having</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>de49482b-753b-4f2b-83c4-caf03c171d53</ID>
+    <Fk_Question>0588ee37-46b8-44ad-b515-5c60373fb390</Fk_Question>
+    <Answer>select, where, group by, having</Answer>
+    <AnswerOrder>2</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>d28a1564-fde5-4125-8de6-67aaed467c9e</ID>
+    <Fk_Question>0588ee37-46b8-44ad-b515-5c60373fb390</Fk_Question>
+    <Answer>select, where, having, group byselect, having, where, group by</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>7c9c3315-10dd-4ec9-bdba-a1a7a2512da0</ID>
+    <Fk_Question>0588ee37-46b8-44ad-b515-5c60373fb390</Fk_Question>
+    <Answer>select, having, where, group by</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>bb779349-0a41-47b7-9e2c-d73bb65443d0</ID>
+    <Fk_Question>31c33409-d285-4b67-a6e4-d2420959ff26</Fk_Question>
+    <Answer>Extract the course ids(cid) where student receive the grade C in the course</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>9ea88ae8-0807-4a46-a29f-c87ac839169b</ID>
+    <Fk_Question>31c33409-d285-4b67-a6e4-d2420959ff26</Fk_Question>
+    <Answer>Extract the unique course ids(cid) where student receive the grade C in the course</Answer>
+    <AnswerOrder>2</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>5b657458-2181-4d75-91a8-2a848bbebfde</ID>
+    <Fk_Question>31c33409-d285-4b67-a6e4-d2420959ff26</Fk_Question>
+    <Answer>Error</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>632c36d8-6d35-47c5-8839-941822435ca4</ID>
+    <Fk_Question>31c33409-d285-4b67-a6e4-d2420959ff26</Fk_Question>
+    <Answer>None of these</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>24ba4edc-4d6f-4b7d-8067-867e0b2176ae</ID>
+    <Fk_Question>2130c721-1dd4-4978-af6c-9f926adb856e</Fk_Question>
+    <Answer>Int</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>5bdef098-2f27-41c8-a948-042242e45e4c</ID>
+    <Fk_Question>2130c721-1dd4-4978-af6c-9f926adb856e</Fk_Question>
+    <Answer>String</Answer>
+    <AnswerOrder>2</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>60965384-5121-493c-b249-230545b8cf59</ID>
+    <Fk_Question>2130c721-1dd4-4978-af6c-9f926adb856e</Fk_Question>
+    <Answer>bool</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>467f9c9e-d709-4899-8813-534a9953b2c3</ID>
+    <Fk_Question>2130c721-1dd4-4978-af6c-9f926adb856e</Fk_Question>
+    <Answer>All the above</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>a5832139-8d62-4d73-8768-7863fd3ffe55</ID>
+    <Fk_Question>cb8a9ab0-7b2d-438e-b06a-e8872a83e971</Fk_Question>
+    <Answer>It allows an instance of a class to be indexed like an array</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>27da2cec-e741-4b6a-95cf-f728d090ef9d</ID>
+    <Fk_Question>cb8a9ab0-7b2d-438e-b06a-e8872a83e971</Fk_Question>
+    <Answer>It allows enumerator with class</Answer>
+    <AnswerOrder>2</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>6471bfc2-c2f6-493f-b07a-c3e93e49723f</ID>
+    <Fk_Question>cb8a9ab0-7b2d-438e-b06a-e8872a83e971</Fk_Question>
+    <Answer>It creates index for instances of a class.</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>9292a9c6-4ec1-4280-bb53-a4f91dce5eaa</ID>
+    <Fk_Question>cb8a9ab0-7b2d-438e-b06a-e8872a83e971</Fk_Question>
+    <Answer>None of the above.</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>b06663ce-1815-47bb-a83b-f4cff38e434e</ID>
+    <Fk_Question>225b58a1-8bd3-4fd4-b7fd-46d6f818c73b</Fk_Question>
+    <Answer>One</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>c35ef37b-9665-4454-8b5a-a512016fb97f</ID>
+    <Fk_Question>225b58a1-8bd3-4fd4-b7fd-46d6f818c73b</Fk_Question>
+    <Answer>Zero</Answer>
+    <AnswerOrder>1</AnswerOrder>
+    <Value>T</Value>
+  </Answers>
+  <Answers>
+    <ID>046850ba-1655-4f8d-b8a2-61b0db7ae19f</ID>
+    <Fk_Question>225b58a1-8bd3-4fd4-b7fd-46d6f818c73b</Fk_Question>
+    <Answer>-1</Answer>
+    <AnswerOrder>3</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <Answers>
+    <ID>d84bbc3c-2e53-41f0-8115-2fdf7f2546b7</ID>
+    <Fk_Question>225b58a1-8bd3-4fd4-b7fd-46d6f818c73b</Fk_Question>
+    <Answer>None of the above</Answer>
+    <AnswerOrder>4</AnswerOrder>
+    <Value>F</Value>
+  </Answers>
+  <QuestionsBank>
+    <ID>37cf4b24-51f3-4174-9e05-fb3c03851cfd</ID>
+    <ExamName>123</ExamName>
+    <Remarks>123</Remarks>
+  </QuestionsBank>
+  <Participant>
+    <ID>adfc9f27-f57b-42fe-a3e1-87a6b13b866d</ID>
+    <Code>MEM-1</Code>
+    <Name>Narayan</Name>
+    <Gender>M</Gender>
+    <EMail>narayan@gmail.com</EMail>
+    <Remarks>123</Remarks>
+    <Active>True</Active>
+  </Participant>
+  <ParticipantAssesment>
+    <ID>e945eefd-412f-4d3c-acf6-a80560bacc7d</ID>
+    <Fk_QuesBank>37cf4b24-51f3-4174-9e05-fb3c03851cfd</Fk_QuesBank>
+    <Fk_Participant>adfc9f27-f57b-42fe-a3e1-87a6b13b866d</Fk_Participant>
+  </ParticipantAssesment>
+  <QuestionMode>
+    <ID>9b30806b-70d5-49b7-acd8-b9e77da3547d</ID>
+    <Code>OPT</Code>
+    <Description>Optional Questions</Description>
+  </QuestionMode>
+  <QuestionMode>
+    <ID>ef55dd84-9328-41e3-bb06-db993061cf91</ID>
+    <Code>MANUAL</Code>
+    <Description>Manual Questions</Description>
+  </QuestionMode>
+  <GroupType>
+    <ID>30c9159b-344a-4998-8d11-c8560d6ee39e</ID>
+    <Code>C#</Code>
+    <Description>C#</Description>
+  </GroupType>
+  <GroupType>
+    <ID>47bc32b7-c243-40e7-9b72-03aadc278109</ID>
+    <Code>SQL </Code>
+    <Description>SQL Questions</Description>
+  </GroupType>
+  <QuestionRelation>
+    <ID>ad8ac270-2bb9-41a2-a3ae-87007f4b1ded</ID>
+    <Fk_Que_ID>6bbe48dc-eadc-4762-9cf1-95301fb3f13d</Fk_Que_ID>
+    <Fk_TopicType>558f9d1f-494e-43eb-9809-67c35e7d6f74</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>75c9b520-0bab-45b8-ab66-8795cb581eff</ID>
+    <Fk_Que_ID>5de7a7c1-1743-41d8-8402-91549fe52a13</Fk_Que_ID>
+    <Fk_TopicType>558f9d1f-494e-43eb-9809-67c35e7d6f74</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>d1cf104b-417b-4caf-9830-64014aa8eb0a</ID>
+    <Fk_Que_ID>cc5850b0-4a1b-4d48-9087-4aed84f63c30</Fk_Que_ID>
+    <Fk_TopicType>558f9d1f-494e-43eb-9809-67c35e7d6f74</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>cbc49fb6-b2a2-472f-a601-bb3066e539fe</ID>
+    <Fk_Que_ID>0588ee37-46b8-44ad-b515-5c60373fb390</Fk_Que_ID>
+    <Fk_TopicType>fb0052fa-915f-4e3a-a3ad-2a2678e18936</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>971f7f3a-54bb-4681-ae81-0085e68dc95a</ID>
+    <Fk_Que_ID>31c33409-d285-4b67-a6e4-d2420959ff26</Fk_Que_ID>
+    <Fk_TopicType>fb0052fa-915f-4e3a-a3ad-2a2678e18936</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>c3a88c12-4172-45bb-b7b1-95f91dc625ed</ID>
+    <Fk_Que_ID>2130c721-1dd4-4978-af6c-9f926adb856e</Fk_Que_ID>
+    <Fk_TopicType>f8ce12ab-945e-433c-951f-37f50dd131e7</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>5a9df952-ef96-430c-bbe6-20623a89bd8e</ID>
+    <Fk_Que_ID>cb8a9ab0-7b2d-438e-b06a-e8872a83e971</Fk_Que_ID>
+    <Fk_TopicType>f8ce12ab-945e-433c-951f-37f50dd131e7</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionRelation>
+    <ID>e73c5fd8-eafd-440e-b302-27de83469aa0</ID>
+    <Fk_Que_ID>225b58a1-8bd3-4fd4-b7fd-46d6f818c73b</Fk_Que_ID>
+    <Fk_TopicType>f8ce12ab-945e-433c-951f-37f50dd131e7</Fk_TopicType>
+  </QuestionRelation>
+  <QuestionBankQuestions>
+    <ID>a28e1c4d-27bf-468d-bfe9-33ddb7f9d55e</ID>
+    <Fk_Question_Rel>cbc49fb6-b2a2-472f-a601-bb3066e539fe</Fk_Question_Rel>
+    <Fk_Question_Bank>37cf4b24-51f3-4174-9e05-fb3c03851cfd</Fk_Question_Bank>
+    <QuestionOrder>1</QuestionOrder>
+  </QuestionBankQuestions>
+  <QuestionBankQuestions>
+    <ID>5b9b7707-ab7c-4698-9e94-9a056e404ad9</ID>
+    <Fk_Question_Rel>971f7f3a-54bb-4681-ae81-0085e68dc95a</Fk_Question_Rel>
+    <Fk_Question_Bank>37cf4b24-51f3-4174-9e05-fb3c03851cfd</Fk_Question_Bank>
+    <QuestionOrder>2</QuestionOrder>
+  </QuestionBankQuestions>
+  <QuestionBankQuestions>
+    <ID>e132e018-5c6c-4445-bebb-65519008126c</ID>
+    <Fk_Question_Rel>5a9df952-ef96-430c-bbe6-20623a89bd8e</Fk_Question_Rel>
+    <Fk_Question_Bank>37cf4b24-51f3-4174-9e05-fb3c03851cfd</Fk_Question_Bank>
+    <QuestionOrder>3</QuestionOrder>
+  </QuestionBankQuestions>
+  <QuestionBankQuestions>
+    <ID>c1cbc677-2d2d-468b-8b06-af441e996969</ID>
+    <Fk_Question_Rel>ad8ac270-2bb9-41a2-a3ae-87007f4b1ded</Fk_Question_Rel>
+    <Fk_Question_Bank>37cf4b24-51f3-4174-9e05-fb3c03851cfd</Fk_Question_Bank>
+    <QuestionOrder>4</QuestionOrder>
+  </QuestionBankQuestions>
+</oExEntity>
